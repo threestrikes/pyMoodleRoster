@@ -13,7 +13,6 @@ createFilename = rosterName + ".txt"
 lineOne = "username,password,firstname,lastname,email,course1,group1,type1"
 lineStudents = rosterNumber + "-stu1,Student1,Student 1,Class " + rosterName + ",1Student" + rosterName + "@cc.mil,Common Core,Class " + rosterName + ",1"
 lineInstructor = rosterNumber +"-inst,###password###,Instructor " + rosterNumber + ",Class " + rosterName + ",Instructor" + rosterName + "@cc.mil,Common Core,Class " + rosterName + ",2"
-allLines = 
 
 
 # Gets home directory and sets working directory to the users Desktop
